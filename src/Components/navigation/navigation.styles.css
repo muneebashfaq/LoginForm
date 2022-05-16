@@ -1,0 +1,61 @@
+.navigation {
+  height: 70px;
+  width: 100%;
+  display: flex;
+ 
+  margin-bottom: 25px;
+}
+.FontAwesomeIcon{
+  margin-right: 6px;
+  cursor: pointer;
+}
+  .logo-container {
+    height: 100%;
+    width: 70px;
+    padding-left: 2px;
+    padding-right: 25px;
+    padding-top: 25px;
+    margin-left: 70px;
+  }
+  .logo_text{
+    padding-left: 2px;
+    padding-right: 25px;
+    padding-top: 25px;
+    margin-left: 70px;
+    margin-left: 0px;
+  }
+  .input_field{
+    padding-left: 2px;
+    padding-right: 25px;
+    padding-top: 25px;
+    margin-left: 70px;
+    margin-left: 60px;
+  }
+
+
+  .nav-links-container {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+    .nav-link {
+      padding: 25px 35px;
+      cursor: pointer;
+    }
+  
+
+    input[type=text].search {
+     
+      padding: 5px 8px;
+      margin: 4px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+    }
+    .DisplayPic{
+      height: 30px;
+      width: 30px;
+      border-radius: 50px;
+    }
